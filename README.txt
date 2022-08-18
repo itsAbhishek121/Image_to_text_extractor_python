@@ -1,10 +1,3 @@
-Submitter name: Abhishek Kumar
-
-Roll No.: 2019csb1062
-
-Course: CS305 Software Engineering
-
-=================================
 
 1. What does this program do?
 
